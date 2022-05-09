@@ -1,1 +1,0 @@
-[Link zum Low Fidelity Prototype](https://www.figma.com/file/qhfP8ifETj0jUnDlOszXjo/IFD-SoSe-2022?node-id=2690%3A5986)
