@@ -44,3 +44,12 @@
 	- Wie aus Sphagnum/Pflanzen Torf wird
 	- Abbau
 
+### 2022-04-29
+- Interaktives Audio Hörspiel über Moore?
+- geführter Moorrundgang mit zusätzlichen Infos
+	- wie löst man das?
+		- -> Standort, QR Code, ...?
+
+### 2022-05-08 
+- Standort automatisch erfassen/erfassen lassen
+- 
