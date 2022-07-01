@@ -52,4 +52,3 @@
 
 ### 2022-05-08 
 - Standort automatisch erfassen/erfassen lassen
-- 
